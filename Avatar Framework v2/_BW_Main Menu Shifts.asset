@@ -1,0 +1,92 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -340790334, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
+  m_Name: _BW_Main Menu Shifts
+  m_EditorClassIdentifier: 
+  controls:
+  - name: <b><color=#FDDA0D>Hue</color></b>
+    icon: {fileID: 2800000, guid: c0d877e1fc5670c468ace75813b665f5, type: 3}
+    type: 203
+    parameter:
+      name: 
+    value: 0
+    style: 0
+    subMenu: {fileID: 11400000, guid: 3b3c2f12fb9052d4dabf6435a536abba, type: 2}
+    subParameters:
+    - name: Feature/Hue
+    labels: []
+  - name: <b><color=#FDDA0D>Skintone</color></b>
+    icon: {fileID: 2800000, guid: 30c428babd024cb47a17091c249370c9, type: 3}
+    type: 203
+    parameter:
+      name: 
+    value: 0
+    style: 0
+    subMenu: {fileID: 11400000, guid: 3b3c2f12fb9052d4dabf6435a536abba, type: 2}
+    subParameters:
+    - name: Feature/Hue
+    labels: []
+  - name: <b><color=#FDDA0D>HairHue</color></b>
+    icon: {fileID: 2800000, guid: c0d877e1fc5670c468ace75813b665f5, type: 3}
+    type: 203
+    parameter:
+      name: 
+    value: 0
+    style: 0
+    subMenu: {fileID: 11400000, guid: 3b3c2f12fb9052d4dabf6435a536abba, type: 2}
+    subParameters:
+    - name: Feature/Hue
+    labels: []
+  - name: <b><color=#FDDA0D>HairHighlight</color></b>
+    icon: {fileID: 2800000, guid: c0d877e1fc5670c468ace75813b665f5, type: 3}
+    type: 203
+    parameter:
+      name: 
+    value: 0
+    style: 0
+    subMenu: {fileID: 11400000, guid: 3b3c2f12fb9052d4dabf6435a536abba, type: 2}
+    subParameters:
+    - name: Feature/Hue
+    labels: []
+  - name: <b><color=#FDDA0D>BustSize</color></b>
+    icon: {fileID: 2800000, guid: 8754ccc4eb497e1429f92e70924d0dc7, type: 3}
+    type: 203
+    parameter:
+      name: 
+    value: 0
+    style: 0
+    subMenu: {fileID: 11400000, guid: 3b3c2f12fb9052d4dabf6435a536abba, type: 2}
+    subParameters:
+    - name: Setting/Chest
+    labels: []
+  - name: <b><color=#FDDA0D>ButtSize</color></b>
+    icon: {fileID: 2800000, guid: 5db2aed5c5bc86d418a5ce27b9041de1, type: 3}
+    type: 203
+    parameter:
+      name: 
+    value: 0
+    style: 0
+    subMenu: {fileID: 11400000, guid: 3b3c2f12fb9052d4dabf6435a536abba, type: 2}
+    subParameters:
+    - name: Setting/Butt
+    labels: []
+  - name: <b><color=#FDDA0D>Muscle</color></b>
+    icon: {fileID: 2800000, guid: 48f58b659fb5b0e43a705a69b2e295b3, type: 3}
+    type: 203
+    parameter:
+      name: 
+    value: 0
+    style: 0
+    subMenu: {fileID: 11400000, guid: 3b3c2f12fb9052d4dabf6435a536abba, type: 2}
+    subParameters:
+    - name: Setting/Muscle
+    labels: []

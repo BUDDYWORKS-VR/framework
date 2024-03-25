@@ -1,0 +1,14 @@
+{
+  "name" : "wtf.buddyworks.framework",
+  "displayName" : "BUDDYWORKS Avatar Framework",
+  "version" : "2.0.0",
+  "unity" : "2019.4",
+  "description" : "Avatar creation template. Use the toolbar menu to import the template.",
+  "author": {
+    "name": "BUDDYWORKS",
+    "email": "hi@buddyworks.wtf"
+  },
+    "vpmDependencies" : {
+    "com.vrchat.avatars" : "3.x.x"
+  }
+}

@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -340790334, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
+  m_Name: _BW_Clothing
+  m_EditorClassIdentifier: 
+  controls:
+  - name: <color=#8D97F8><b>Tops</b></color>
+    icon: {fileID: 2800000, guid: 34b75b0cad6e59f48a4f597cb6e487f0, type: 3}
+    type: 103
+    parameter:
+      name: 
+    value: 0
+    style: 0
+    subMenu: {fileID: 11400000, guid: 11d2e1ffd2843c8419eac64d1e58edd2, type: 2}
+    subParameters:
+    - name: 
+    labels: []
+  - name: <color=#8D97F8><b>Pants</b></color>
+    icon: {fileID: 2800000, guid: 34b75b0cad6e59f48a4f597cb6e487f0, type: 3}
+    type: 103
+    parameter:
+      name: 
+    value: 0
+    style: 0
+    subMenu: {fileID: 11400000, guid: a5a52c8642040ed48a3fee1067bc968e, type: 2}
+    subParameters:
+    - name: 
+    labels: []
+  - name: <color=#8D97F8><b>Shoes</b></color>
+    icon: {fileID: 2800000, guid: 34b75b0cad6e59f48a4f597cb6e487f0, type: 3}
+    type: 103
+    parameter:
+      name: 
+    value: 0
+    style: 0
+    subMenu: {fileID: 11400000, guid: 3f9f9f8ddddc5e14a8ad0df00e9f3dab, type: 2}
+    subParameters:
+    - name: 
+    labels: []
+  - name: <color=#8D97F8><b>Presets</b></color>
+    icon: {fileID: 2800000, guid: 972d477e7776af849a27888fb044e08a, type: 3}
+    type: 103
+    parameter:
+      name: 
+    value: 0
+    style: 0
+    subMenu: {fileID: 11400000, guid: 34bfdafd33fa3c84e8f70a3f9972ec37, type: 2}
+    subParameters:
+    - name: 
+    labels: []

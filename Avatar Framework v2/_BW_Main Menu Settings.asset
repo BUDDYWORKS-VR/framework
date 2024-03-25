@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -340790334, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
+  m_Name: _BW_Main Menu Settings
+  m_EditorClassIdentifier: 
+  controls:
+  - name: <b><color=#FDDA0D>Blink</color></b>
+    icon: {fileID: 2800000, guid: 103c4887269ad9442b1d23e745fa8299, type: 3}
+    type: 102
+    parameter:
+      name: 
+    value: 0
+    style: 0
+    subMenu: {fileID: 11400000}
+    subParameters: []
+    labels: []
+  - name: <b><color=#FDDA0D>Blush</color></b>
+    icon: {fileID: 2800000, guid: 842ded705759537479c96cf8f61d79aa, type: 3}
+    type: 102
+    parameter:
+      name: Setting/Blush
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000}
+    subParameters: []
+    labels: []

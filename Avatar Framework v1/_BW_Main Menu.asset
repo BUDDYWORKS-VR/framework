@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -340790334, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
+  m_Name: _BW_Main Menu
+  m_EditorClassIdentifier: 
+  controls:
+  - name: <color=#FDDA0D><b>Quick Access</b></color>
+    icon: {fileID: 2800000, guid: 0ff9333af28b8224893850e22c95e496, type: 3}
+    type: 103
+    parameter:
+      name: 
+    value: 0
+    style: 0
+    subMenu: {fileID: 11400000, guid: bb98e4f68a6ea5a49b188fba4d5a8271, type: 2}
+    subParameters: []
+    labels: []
+  - name: <color=#FDDA0D><b>Effects</b></color>
+    icon: {fileID: 2800000, guid: cc4c13c05f8c4e943885903095b7474a, type: 3}
+    type: 103
+    parameter:
+      name: 
+    value: 0
+    style: 0
+    subMenu: {fileID: 11400000, guid: 8b6b7f6dd47729042ba35c85e1bf525a, type: 2}
+    subParameters: []
+    labels: []
+  - name: <color=#FDDA0D><b><size=23><line-height=100%><voffset=24.5em>BUDDY WORKS
+      Menu v5</b></color>
+    icon: {fileID: 2800000, guid: b731de7730156ac49b0cf3dba7aa1e23, type: 3}
+    type: 103
+    parameter:
+      name: 
+    value: 0
+    style: 0
+    subMenu: {fileID: 11400000, guid: 2dff1d3633064994994a12560b141a9a, type: 2}
+    subParameters:
+    - name: 
+    labels: []
+  - name: <color=#FDDA0D><b>Clothing</b></color>
+    icon: {fileID: 2800000, guid: f7a074ece12958f418f4dbf105513377, type: 3}
+    type: 103
+    parameter:
+      name: 
+    value: 0
+    style: 0
+    subMenu: {fileID: 11400000, guid: b531e01e8a6b813479425c567c94584c, type: 2}
+    subParameters: []
+    labels: []
+  - name: <color=#FDDA0D><b>Stuff</b></color>
+    icon: {fileID: 2800000, guid: 8b4cc96dcc6fb484cb2b3d55c4997d99, type: 3}
+    type: 103
+    parameter:
+      name: 
+    value: 0
+    style: 0
+    subMenu: {fileID: 11400000, guid: d98113098b5051b4e91a2964a5739f9d, type: 2}
+    subParameters: []
+    labels: []
+  - name: <color=#FDDA0D><b>Avatar Settings</b></color>
+    icon: {fileID: 2800000, guid: a3541a4364a78cc47ae40c2cf3729718, type: 3}
+    type: 103
+    parameter:
+      name: 
+    value: 0
+    style: 0
+    subMenu: {fileID: 11400000, guid: 0c56c60b478ed3044ad94afd4cb5e911, type: 2}
+    subParameters: []
+    labels: []
