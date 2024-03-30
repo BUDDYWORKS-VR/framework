@@ -2,7 +2,7 @@
   "name" : "wtf.buddyworks.framework",
   "displayName" : "BUDDYWORKS Avatar Framework",
   "version" : "2.0.0",
-  "unity" : "2019.4",
+  "unity" : "2022.3",
   "description" : "Avatar creation template. Use the toolbar menu to import the template.",
   "author": {
     "name": "BUDDYWORKS",
