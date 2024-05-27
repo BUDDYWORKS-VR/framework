@@ -1,8 +1,6 @@
 <a href="https://buddyworks.wtf"><img width=50% src="https://splash.buddyworks.wtf/tckAqsHD.png"></img></a>  
 # BUDDYWORKS Avatar Framework
 
-Over-complication knows no bounds, and if you ever craved your avatars expression menu to be like a videogame by itself, this set of menu files and logic samples is exactly what you are looking for. Its purpose is to be a unified menu structure for avatars, allowing for plenty of expansion while neatly organising everything your avatar could ever hope to do. It also comes with all you could need to jumpstart the creation process.
-
 A premade, fancy looking menu structure with a preset variable list, and a premade and ready to go FX Controller for most cases where you just plop your own animation clips into.
 
 Elaborating on that FX Controller: It uses a highly optimized setup all around.
