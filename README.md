@@ -1,5 +1,17 @@
+<div align="center">
+
 <a href="https://buddyworks.wtf"><img width=50% src="https://splash.buddyworks.wtf/tckAqsHD.png"></img></a>  
-# BUDDYWORKS Avatar Framework
+# BUDDYWORKS Avatar Framework  
+*Avatar 3.0 Templates for quick and elaborate avatar creation*
+
+[![Generic badge](https://img.shields.io/github/downloads/BUDDYWORKS-VR/framework/total?label=Downloads)](https://github.com/BUDDYWORKS-VR/framework/releases/latest)
+[![Generic badge](https://img.shields.io/badge/License-MIT-informational.svg)](https://github.com/BUDDYWORKS-VR/framework/blob/main/LICENSE)
+[![Generic badge](https://img.shields.io/badge/Unity-2022.3.22f1-red.svg)](https://unity3d.com/unity/whats-new/2022.3.22)
+
+[![Generic badge](https://img.shields.io/discord/1115323445316702269?color=%237289da&label=DISCORD&logo=Discord&style=for-the-badge)](https://discord.buddyworks.wtf/)
+[![Generic badge](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3Dbuddy_de%26type%3Dpatrons&style=for-the-badge)](https://www.patreon.com/c/buddy_de)
+  
+</div>
 
 A premade, fancy looking menu structure with a preset variable list, and a premade and ready to go FX Controller for most cases where you just plop your own animation clips into.
 
