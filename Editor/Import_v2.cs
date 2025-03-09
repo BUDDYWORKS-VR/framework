@@ -19,7 +19,7 @@ namespace BUDDYWORKS.AvatarFramework.Importv2
             "package.json"
         };
 
-        [MenuItem("BUDDYWORKS/Avatar Framework/Import Framework v2 (Preview)")]
+        [MenuItem("BUDDYWORKS/Avatar Framework/Import Framework v2", false, 0)]
         public static void FancyPackage()
         {
             Type instancerType = AppDomain.CurrentDomain.GetAssemblies()

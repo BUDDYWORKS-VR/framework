@@ -211,7 +211,7 @@ MonoBehaviour:
     sourceMax: 0
     destMin: 0
     destMax: 0
-  localOnly: 0
+  localOnly: 1
   debugString: 
 --- !u!1109 &-7513188525074823356
 AnimatorTransition:
@@ -352,9 +352,6 @@ AnimatorStateTransition:
   - m_ConditionMode: 6
     m_ConditionEvent: Clothing/Preset
     m_EventTreshold: 3
-  - m_ConditionMode: 1
-    m_ConditionEvent: isLocal
-    m_EventTreshold: 0
   m_DstStateMachine: {fileID: 0}
   m_DstState: {fileID: -8501881942024522288}
   m_Solo: 0
@@ -1358,7 +1355,7 @@ MonoBehaviour:
     sourceMax: 0
     destMin: 0
     destMax: 0
-  localOnly: 0
+  localOnly: 1
   debugString: 
 --- !u!1101 &-912383285425609490
 AnimatorStateTransition:
@@ -1371,9 +1368,6 @@ AnimatorStateTransition:
   - m_ConditionMode: 6
     m_ConditionEvent: Clothing/Preset
     m_EventTreshold: 2
-  - m_ConditionMode: 1
-    m_ConditionEvent: isLocal
-    m_EventTreshold: 0
   m_DstStateMachine: {fileID: 0}
   m_DstState: {fileID: -2584890894989214573}
   m_Solo: 0
@@ -1478,9 +1472,6 @@ AnimatorStateTransition:
   - m_ConditionMode: 6
     m_ConditionEvent: Clothing/Preset
     m_EventTreshold: 1
-  - m_ConditionMode: 1
-    m_ConditionEvent: isLocal
-    m_EventTreshold: 0
   m_DstStateMachine: {fileID: 0}
   m_DstState: {fileID: -6379083019766557739}
   m_Solo: 0
@@ -1501,7 +1492,7 @@ BlendTree:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Blend Tree
+  m_Name: Master DBT
   m_Childs:
   - serializedVersion: 2
     m_Motion: {fileID: 1846994957480267658}
@@ -1689,12 +1680,6 @@ AnimatorController:
     m_DefaultFloat: 1
     m_DefaultInt: 0
     m_DefaultBool: 0
-    m_Controller: {fileID: 0}
-  - m_Name: isLocal
-    m_Type: 4
-    m_DefaultFloat: 0
-    m_DefaultInt: 0
-    m_DefaultBool: 1
     m_Controller: {fileID: 0}
   - m_Name: Empty
     m_Type: 4
@@ -2294,7 +2279,7 @@ MonoBehaviour:
     sourceMax: 0
     destMin: 0
     destMax: 0
-  localOnly: 0
+  localOnly: 1
   debugString: 
 --- !u!1102 &5379324576237105903
 AnimatorState:
@@ -2453,7 +2438,7 @@ AnimatorState:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Blend Tree
+  m_Name: Master Blendtree
   m_Speed: 1
   m_CycleOffset: 0
   m_Transitions: []

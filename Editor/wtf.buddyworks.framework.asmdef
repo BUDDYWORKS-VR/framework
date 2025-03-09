@@ -1,5 +1,6 @@
 {
-    "name": "Import_v1",
+    "name": "wtf.buddyworks.framework",
+    "rootNamespace": "",
     "references": [],
     "includePlatforms": [
         "Editor"
